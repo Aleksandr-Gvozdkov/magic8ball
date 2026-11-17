@@ -5,8 +5,8 @@
 ## Как запустить
 
 1. Убедитесь, что у вас установлен Python 3.
-2. Скачайте файл `magic_ball.py`.
+2. Скачайте файл `magic_8_ball.py`.
 3. Запустите скрипт в терминале:
    ```bash
-   python3 magic_ball.py
+   python3 magic_8_ball.py
    ```
